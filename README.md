@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bessaM0
 - 👀 I’m interested in software + web development, 
-- 🌱 I’m currently learning HTML,CSS and Javascript
+- 🌱 I’m currently learning HTML,CSS, PHP and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
